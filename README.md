@@ -15,6 +15,9 @@
 
 - ⚡ Fun fact **Only I know that I am funny**
 
+
+- 📫 Connect with me on linkedin (https://www.linkedin.com/in/sourav-sharma-1514441a0/)
+
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/souravs15135124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="souravs15135124" height="30" width="40" /></a>
