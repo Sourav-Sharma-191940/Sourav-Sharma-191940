@@ -16,7 +16,7 @@
 - ⚡ Fun fact **Only I know that I am funny**
 
 
-- 📫 Connect with me on linkedin (https://www.linkedin.com/in/sourav-sharma-1514441a0/)
+- 📫 Connect with me on linkedin https://www.linkedin.com/in/sourav-sharma-1514441a0/
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
