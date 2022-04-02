@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourav-sharma-191940&label=Profile%20views&color=0e75b6&style=flat" alt="sourav-sharma-191940" /> </p>
 
-- 🔭 I’m currently working on **E-LMS**
+- 🔭 I’m currently working on **CUH Placement Cell**
 
-- 🌱 I’m currently learning **Django framework**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **FrontEnd Development**
 
