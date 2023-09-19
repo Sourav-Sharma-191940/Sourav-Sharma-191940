@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ss4094061@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/192xrU1iznj6Dhpg_ZysS4UYi36W_7xzg/view?usp=sharing](https://drive.google.com/file/d/192xrU1iznj6Dhpg_ZysS4UYi36W_7xzg/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1z6nr1xM5sw1lgTYRzPzi0nex0cNh3Syl/view?usp=sharing](https://drive.google.com/file/d/1z6nr1xM5sw1lgTYRzPzi0nex0cNh3Syl/view?usp=sharing)
 
 - ⚡ Fun fact **Only I know that I am funny**
 
