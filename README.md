@@ -1,21 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sourav Sharma</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">A passionate FullStack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourav-sharma-191940&label=Profile%20views&color=0e75b6&style=flat" alt="sourav-sharma-191940" /> </p>
 
-- 🔭 I’m currently working on **CUH Placement Cell**
-
-- 🌱 I’m currently learning **MERN Stack**
-
-- 💬 Ask me about **FrontEnd Development**
+- 🔭 I’m currently working as **Software Development Engineer**
 
 - 📫 How to reach me **ss4094061@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1z6nr1xM5sw1lgTYRzPzi0nex0cNh3Syl/view?usp=sharing](https://drive.google.com/file/d/1z6nr1xM5sw1lgTYRzPzi0nex0cNh3Syl/view?usp=sharing)
 
-- ⚡ Fun fact **Only I know that I am funny**
-
 - 📫 My Portfolio link https://sourav-sharma-191940.github.io/portfolio/
+  
 - 📫 Connect with me on linkedin https://www.linkedin.com/in/sourav-sharma-1514441a0/
 
 <!-- <h3 align="left">Connect with me:</h3>
